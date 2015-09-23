@@ -17,3 +17,5 @@ asd
 [citeme][citelol]
 
 [citelol]: (javascript:prompt(document.cookie))
+
+![3030 chrome crashy-crashy](%%30%30)
